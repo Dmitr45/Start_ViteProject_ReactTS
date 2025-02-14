@@ -1,8 +1,9 @@
 # Start_ViteProject_ReactTS
  Started Vite Project
-
+<br>
 # install
-npm create vite@latest app -- --template react-ts
-npm i -D vite-plugin-css-injected-by-js
-npm i -D @types/node
-npm i -D path
+<br>
+<br>npm create vite@latest app -- --template react-ts
+<br>npm i -D vite-plugin-css-injected-by-js
+<br>npm i -D @types/node
+<br>npm i -D path
